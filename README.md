@@ -12,8 +12,9 @@
 ### About me
 
 - 🎓 Engineering student in **Data Science & AI** at **TEK-UP University** (Tunisia)
-- 💼 AI Intern at **AMSYS Consulting**
-- 🤖 I build **multi-agent AI systems** (LangGraph, RAG) and **full-stack web apps** (Django, FastAPI, React)
+- 💼 Former AI Intern at **AMSYS Consulting**
+- 🤖 I build **multi-agent AI systems** (LangGraph, RAG), **computer-vision models** and **full-stack web apps** (Django, FastAPI, React)
+- 🏆 Hackathons: **NASA Space Apps Challenge 2026**, **HACK'N'BIZ 2026**
 - 📜 Currently preparing the **PCAP (Python Institute)** and **Huawei Cloud** certifications
 - 🌱 Open to **internships** and **freelance projects**
 
@@ -24,6 +25,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🛡️ **[SENTINEL — AI Compliance Platform](https://github.com/malakabdelkhalek/sentinel-ai-compliance)** | Multi-agent system for bank AML monitoring and KYC onboarding, with a zero-trust governance layer, hash-chained audit log and human-in-the-loop dashboard. Built at **HACK'N'BIZ 2026**. | Python · LangGraph · Groq (Llama 3.3) · ChromaDB · FastAPI · Streamlit |
+| 🚀 **[Marsouine — Martian Map](https://github.com/malakabdelkhalek/marsouine-martian-map)** | NASA Space Apps 2026 team project: a map that tells an astronaut on Mars whether the ground ahead is safe to walk. **My part:** the AI terrain model trained on Curiosity's Navcam images (sand IoU 0.97 on the AI4Mars test set) and the React tablet + AR helmet app with route planning. | Python · Deep Learning · React · WebXR · QGIS |
 | ♻️ **[ReCoin](https://github.com/malakabdelkhalek/ReCoin)** | Platform that rewards citizens with coins for recycling: waste declarations, admin verification and a map of drop-off points. | Django REST · React · PostgreSQL/PostGIS · Leaflet |
 | 🍝 **[AR Menu + AI Waiter](https://github.com/malakabdelkhalek/ar-menu-ai-waiter)** | Augmented-reality restaurant menu with "Jojo", an AI waiter that recommends dishes and learns from customer choices. | JavaScript · A-Frame · MindAR · Supabase |
 | 💚 **[Hope for Gaza](https://github.com/malakabdelkhalek/hope-for-gaza-donations)** | Donation website with sign-up, login, donor dashboard and donation flow. | HTML · CSS · JavaScript |
